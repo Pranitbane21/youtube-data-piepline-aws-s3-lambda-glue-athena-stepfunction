@@ -1,0 +1,4 @@
+# Ignore large dataset CSVs
+# Keep small JSON reference files and code only
+
+data/*.csv
